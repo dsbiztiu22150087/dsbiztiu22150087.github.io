@@ -2,10 +2,4 @@
 title: "template"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](images/AF9740CE-2134-4EF0-8386-8D890BA81A6A.jpeg)
